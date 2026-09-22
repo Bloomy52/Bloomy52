@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my AI Data Summarization Tool (Bloomy52/ai-data-summarizer)
-- 🌱 I’m currently learning Information Systems & Data Analytics
+- 🔭 I’m currently working on my AI Data Summarization Tool (Bloomy52/ai-data-summarizer).
+- 🌱 I’m currently majoring in Information Systems & Data Analytics with a Minor in Artificial Intelligence at Drake University (Des Moines, IA).
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
